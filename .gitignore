@@ -24,3 +24,7 @@ hs_err_pid*
 replay_pid*
 desafio01/.vscode/settings.json
 desafio02/DesafioControleFluxo/.vscode/settings.json
+*/.vscode/*
+desafio04/banco-digital/bin/*
+desafio04/banco-digital/.vscode/*
+*/lib/*
